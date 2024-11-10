@@ -8,7 +8,7 @@
 ### Clase 10
 - [2024-11-01 (Unidad III) (Ejercitacion Archivos de textos y binarios) Algoritmos y Programación](https://github.com/MONZONPUNTOEXE/algoritmos-python/blob/main/codigo_clase/6008_Unidad_II_y_III/2024-11-01%20(Unidad%20III)%20(Ejercitacion%20Archivos%20de%20textos%20y%20binarios)%20Algoritmos%20y%20Programaci%C3%B3n.md)
 
-## Parcial Resuelto
+## Primer Parcial Resuelto (Codigo del Profesor)
 - [Parcial resuelto](https://github.com/MONZONPUNTOEXE/algoritmos-python/blob/main/codigo_clase/6008_Parcial_1_Resultados.md)
 
 ## PDF's
